@@ -27,10 +27,10 @@ h1 a {
 }
 
 h2 {
-  color : ;
+  color : rgb(111,127,122);
   font-size : 2em;
 }
 
 p {
-  color : rgb(152,173,166);
+  color : #555;
 }
